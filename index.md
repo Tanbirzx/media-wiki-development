@@ -10,4 +10,4 @@
 9 autochecking = "include"
 10
 11[*.md]
- }
+}
