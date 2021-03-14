@@ -1,3 +1,4 @@
+{
 1[*]
 2
 3 root = "true"
@@ -7,5 +8,6 @@
 7
 8 mediawiki = "version: 1.32.1"
 9 autochecking = "include"
-
-10[*.md]
+10
+11[*.md]
+ }
