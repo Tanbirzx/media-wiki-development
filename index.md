@@ -5,6 +5,7 @@
 root = true
 
 [*]
+
 name = "captcha/mediawiki-api"
 type = "git"
 description = "captcha system in mediawiki"
