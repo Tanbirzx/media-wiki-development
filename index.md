@@ -14,4 +14,5 @@ mediawiki = "version: 1.32.1"
 autochecking = "include"
 
 [*.md]
+
 trim_trailing_whitespace = false
